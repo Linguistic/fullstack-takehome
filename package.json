@@ -38,7 +38,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@envelop/graphql-jit": "^5.0.6",
+		"@envelop/graphql-jit": "^6.0.0",
 		"@urql/core": "^4.0.7",
 		"@urql/svelte": "^4.0.1",
 		"daisyui": "^2.51.6",
